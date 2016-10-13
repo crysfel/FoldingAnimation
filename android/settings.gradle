@@ -1,0 +1,3 @@
+rootProject.name = 'FoldingAnimation'
+
+include ':app'
